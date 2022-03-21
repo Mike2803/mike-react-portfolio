@@ -121,7 +121,6 @@ p {
 
 .card > .img-container {
   height: 50%;
-  overflow: ;
   text-align: center;
   background-color: lightgray;
 }
@@ -147,4 +146,8 @@ p {
 .card > .content > ul > li {
   margin-top: 18px;
   background-color: lightgray;
+}
+
+#footer {
+  margin-left: 500px;
 }
