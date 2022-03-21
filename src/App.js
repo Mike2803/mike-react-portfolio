@@ -1,19 +1,20 @@
-import React from "react";
-import "./App.css";
-import Header from "./components/Header";
-import Container from "./components/Container";
-import Nav from "./components/Nav";
-import Footer from "./components/Footer";
+import React from 'react';
+import Header from './components/Header';
+// import Footer from './components/Footer'; 
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './index.css';
 
-
-function App() {
+const App = () => {
   return (
-    <div className="site_wrapper">
-      <Header />
-      <Nav />
-      <Container />
-      <Footer />
+    <>
+    <div>
+      <Header></Header>
     </div>
+    {/* <div>
+      <Footer></Footer>
+    </div> */}
+    </>
   );
 }
 

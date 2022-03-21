@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "mike-tech-blog",
+        "image":"https://user-images.githubusercontent.com/87356305/159185326-63d516c6-6575-47a9-888f-5b442a309251.png",
+        "github": "https://github.com/Mike2803/mike-tech-blog",
+        "deployedapp": "https://secret-hamlet-51058.herokuapp.com/",
+        "description": "This project is a CMS-style blog where developers can publish their blog posts and comment on other developers post.",
+        "skills": "Express | Sequelize | API | Handlebars | MVC | ORM | Node.js"
+    },
+    {
+        "id": 2,
+        "name": "Work Day Scheduler",
+        "image": "https://user-images.githubusercontent.com/87356305/159185609-6772d8ee-21c0-43d3-9e59-e494ec2bb6ca.png",
+        "github": "https://github.com/Mike2803/work-day-scheduler",
+        "deployedapp": "https://mike2803.github.io/work-day-scheduler/",
+        "description": "This project uses third-party APIs and Javascript to create a day scheduler allowins users to save schedule events for each hour of the day.",
+        "skills": "JavaScript | jQuery | API | DOM"
+    },    
+    {
+        "id": 3,
+        "name": "Note app",
+        "image": "https://user-images.githubusercontent.com/87356305/159185820-cbaadbd6-b0fc-4f1f-9726-40c3bc730f85.png",
+        "github": "https://github.com/Mike2803/note-app",
+        "deployedapp": "https://mikes-note-app.herokuapp.com/",
+        "description": "This application was created to allow users to read and write notes. This application uses Express.js to connect the client-side and server-side and Node.js for it's file system.",
+        "skills": "Node.js | Express | AJAX "
+    },    
+    {
+        "id": 4,
+        "name": "Code Quiz",
+        "image": "https://user-images.githubusercontent.com/87356305/159186040-ff5a0cf3-aed8-4727-87b0-86b75ec76ef3.png",
+        "github": "https://github.com/Mike2803/code-quiz",
+        "deployedapp": "https://mike2803.github.io/code-quiz/",
+        "description": "This project was to create a coding quiz using Javascript and DOM APIs.",
+        "skills": "JavaScript | API | DOM"
+    },    
+    {
+        "id": 5,
+        "name": "weather dashboard",
+        "image": "https://user-images.githubusercontent.com/87356305/159186194-dedc3e55-8729-40b3-9471-fe31ef08a40a.png",
+        "github": "https://github.com/Mike2803/weather-dashboard",
+        "deployedapp": "https://mike2803.github.io/weather-dashboard/",
+        "description": "This weather dashboard application has search functionality to find current weather outlook for multiple cities",
+        "skills": "JavaScript | API | DOM"
+    }
+]
