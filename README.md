@@ -4,4 +4,4 @@
 * The user should clone the repository from GitHub and install dependencies. To run React, run npm start.
 # Usage
 * This application will allow users view an about me page, send information through a contact form, view my projects, and view my resume.
-Please view deployed application on
+Please view deployed application on https://mike2803.github.io/mike-react-portfolio/
